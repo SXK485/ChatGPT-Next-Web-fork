@@ -339,9 +339,9 @@ export const DEFAULT_MODELS = [
     name: "claude-3-opus-20240229",
     available: true,
     provider: {
-      id: "anthropic",
-      providerName: "Anthropic",
-      providerType: "anthropic",
+      id: "openai",
+      providerName: "OpenAI",
+      providerType: "OpenAI",
     },
   },
   {
